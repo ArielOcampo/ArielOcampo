@@ -54,7 +54,9 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
       width="40" height="40" /> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a>  </p>
+      alt="react" width="40" height="40" /> </a> <a href="https://heroku.com/" target="_blank" rel="noreferrer"> <img
+      src="https://www.svgrepo.com/show/355052/heroku.svg" alt="Heroku" width="40" height="40" /> </a>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353782/git-icon.svg" alt="Git" width="40" height="40" /> </a>  </p>
 
 <br>
 
