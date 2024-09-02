@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ariel Ocampo</h1>
-<h3 align="center">Full stack developer 👨‍💻.</h3>
+<h3 align="center">Frontend developer 👨‍💻.</h3>
 
 <br>
 
@@ -11,8 +11,6 @@
 
 <p><img align="right" src="https://user-images.githubusercontent.com/38233499/181924922-a644bf8e-13aa-4c1e-ab2f-69ac8d2c641e.gif" alt="adam-pw" /></p>
 
-
-- 🌱 I’m recently graduated from MindHub web development career as full stack developer
 
 - 📫 How to reach me **arioca181@gmail.com**
 
